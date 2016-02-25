@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Typesum</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="count_button">Contar</string>
+    <string name="check_uppercase_text">Texto Maiúsculo</string>
+    <string name="check_lowercase_text">Texto Minúsculo</string>
+    <string name="check_integer">Número</string>
+    <string name="check_especial_caracters">Caracteres Especiais</string>
+    <string name="check_blanks">Espaços</string>
+    <string name="generate_button">Gerar</string>
+    <string name="login">Login</string>
+</resources>
